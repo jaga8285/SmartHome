@@ -1,0 +1,54 @@
+{
+    "AmbInt/Lamp":{
+        "Kitchen1":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+        "Kitchen2":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+        "Bedroom1":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+        "Bedroom2":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+        "Hallway1":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+        "Hallway2":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+        "HallwayBathroom1":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+        "Kitchen1":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+        "Kitchen1":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+        "Kitchen1":{
+            "State":false,
+            "Intensity": 2.5,
+            "Hue":66
+        },
+    }
+}

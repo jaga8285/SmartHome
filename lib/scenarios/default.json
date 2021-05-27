@@ -1,0 +1,64 @@
+{
+    "AmbInt/Lamp":{
+        "Kitchen1":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "Kitchen2":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "Bedroom1":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "Bedroom2":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "Hallway1":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "Hallway2":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "Hallway3":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "HallwayBathroom1":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "LivingRoom1":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "LivingRoom2":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "Suite1":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        },
+        "SuiteBathroom1":{
+            "STATE":false,
+            "INT": 2.5,
+            "COLOR":66
+        }
+    }
+}

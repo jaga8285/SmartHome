@@ -1,0 +1,26 @@
+MQTT   
+
+/AmbInt/Kitchen/   -- TOPIC
+/AmbInt/ROOM_X/
+
+{
+    origin: /AmbInt/Kitchen/
+    payload: {lamp_2: ON}
+}
+
+
+
+
+/AmbInt/Scenario/
+
+{
+    origin: /AmbInt/Scenario/
+    payload: {
+            "KITCHEN: {lamp_2: ON,}
+            "ROOM_X": {tv: ON} 
+            }
+}
+
+
+
+/AmbInt/Users/
