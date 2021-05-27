@@ -1,4 +1,4 @@
-# Smart-Home-Simulation
+# Smart-Home-App
 
 ## How to run
 
